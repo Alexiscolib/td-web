@@ -29,15 +29,9 @@
 		<a name="apropos"></a>
 		<section>
 			<h1>A propos</h1>
-			Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. At lectus urna duis convallis. Sociis natoque penatibus et magnis dis parturient montes nascetur ridiculus. Habitant morbi tristique senectus et. Tortor consequat id porta nibh venenatis cras sed. Netus et malesuada fames ac turpis egestas. Dictum non consectetur a erat nam at. Rhoncus aenean vel elit scelerisque mauris pellentesque. Id venenatis a condimentum vitae sapien pellentesque habitant morbi. Varius vel pharetra vel turpis nunc eget lorem. In nibh mauris cursus mattis molestie a iaculis. Duis ut diam quam nulla porttitor massa id neque. Duis tristique sollicitudin nibh sit. Cras sed felis eget velit aliquet sagittis. Sagittis aliquam malesuada bibendum arcu.
-
-			Arcu cursus euismod quis viverra nibh cras pulvinar. Proin sagittis nisl rhoncus mattis rhoncus urna neque viverra justo. Et pharetra pharetra massa massa. Semper auctor neque vitae tempus quam pellentesque. Congue eu consequat ac felis. Elementum tempus egestas sed sed. Erat imperdiet sed euismod nisi porta. Sed nisi lacus sed viverra. At ultrices mi tempus imperdiet nulla malesuada pellentesque. Volutpat lacus laoreet non curabitur gravida.
-
-			Odio eu feugiat pretium nibh. Est ullamcorper eget nulla facilisi etiam dignissim. Id volutpat lacus laoreet non curabitur gravida arcu ac tortor. Dictum fusce ut placerat orci nulla. Mattis vulputate enim nulla aliquet porttitor lacus luctus accumsan tortor. Vitae tortor condimentum lacinia quis vel. Dui accumsan sit amet nulla facilisi. At tellus at urna condimentum mattis pellentesque id nibh tortor. In nulla posuere sollicitudin aliquam ultrices sagittis orci a. Laoreet non curabitur gravida arcu ac. Eget lorem dolor sed viverra ipsum nunc aliquet bibendum. Metus dictum at tempor commodo ullamcorper a lacus vestibulum sed. Egestas pretium aenean pharetra magna ac placerat vestibulum lectus mauris.
-
-			Turpis egestas maecenas pharetra convallis. Vitae ultricies leo integer malesuada nunc. Ipsum faucibus vitae aliquet nec ullamcorper sit. Sed elementum tempus egestas sed sed. Risus commodo viverra maecenas accumsan lacus vel facilisis volutpat. Sit amet consectetur adipiscing elit pellentesque habitant morbi tristique senectus. Nibh sit amet commodo nulla facilisi nullam. Aliquet risus feugiat in ante metus dictum at. Scelerisque mauris pellentesque pulvinar pellentesque habitant morbi. Vel pretium lectus quam id leo in. Habitasse platea dictumst vestibulum rhoncus est pellentesque elit. Tempor orci eu lobortis elementum nibh tellus molestie. Tempus urna et pharetra pharetra massa massa ultricies mi. Et malesuada fames ac turpis egestas integer eget aliquet nibh. Aliquam ultrices sagittis orci a scelerisque purus semper. Rhoncus mattis rhoncus urna neque viverra justo nec ultrices. Semper feugiat nibh sed pulvinar proin. Eget aliquet nibh praesent tristique. Nibh ipsum consequat nisl vel pretium lectus quam.
-
-			Tempor orci eu lobortis elementum nibh tellus molestie nunc non. Tristique magna sit amet purus gravida quis. Iaculis at erat pellentesque adipiscing commodo elit at imperdiet. Non tellus orci ac auctor. Gravida quis blandit turpis cursus in hac habitasse platea dictumst. At augue eget arcu dictum varius duis at. Hendrerit dolor magna eget est lorem. Tellus molestie nunc non blandit massa enim. Feugiat pretium nibh ipsum consequat nisl. Mauris sit amet massa vitae. Et tortor at risus viverra adipiscing at in tellus integer. Leo vel fringilla est ullamcorper eget nulla facilisi. At tempor commodo ullamcorper a lacus vestibulum sed. Nisl tincidunt eget nullam non nisi est. Ut diam quam nulla porttitor massa.
+			phrase d'accroche
+			<p>Bnojour je m'appel Alexis Colibert, je suis né le 28/06/2004 à Saint lô</p>
+			 <p>Je suis actuellement en première année de BTS SIO en spécialité réseaux.</p>
 		</section>
 
 		<a name="competences"></a>
@@ -67,21 +61,20 @@
 			<p>Date de fin: 2018</p>
 			<p>Lieu: Beaumont-Hague</p>
 			<p>Tache Réaliser:Pendant deux jours j'ai observé le travail de mon maitre de stage puis j'ai travailler pendant trois jours; j'ai participé à la fabrication de pièces métallique notamment grâce à des machines de mécanique de précision</p>
-
+			<a href='data/CV.pdf'>	CV </a>
 		</section>
 
 		<section>
 			<a name="formation"></a>
 			<h1>Formation</h1>
-			Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. At lectus urna duis convallis. Sociis natoque penatibus et magnis dis parturient montes nascetur ridiculus. Habitant morbi tristique senectus et. Tortor consequat id porta nibh venenatis cras sed. Netus et malesuada fames ac turpis egestas. Dictum non consectetur a erat nam at. Rhoncus aenean vel elit scelerisque mauris pellentesque. Id venenatis a condimentum vitae sapien pellentesque habitant morbi. Varius vel pharetra vel turpis nunc eget lorem. In nibh mauris cursus mattis molestie a iaculis. Duis ut diam quam nulla porttitor massa id neque. Duis tristique sollicitudin nibh sit. Cras sed felis eget velit aliquet sagittis. Sagittis aliquam malesuada bibendum arcu.
-
-			Arcu cursus euismod quis viverra nibh cras pulvinar. Proin sagittis nisl rhoncus mattis rhoncus urna neque viverra justo. Et pharetra pharetra massa massa. Semper auctor neque vitae tempus quam pellentesque. Congue eu consequat ac felis. Elementum tempus egestas sed sed. Erat imperdiet sed euismod nisi porta. Sed nisi lacus sed viverra. At ultrices mi tempus imperdiet nulla malesuada pellentesque. Volutpat lacus laoreet non curabitur gravida.
-
-			Odio eu feugiat pretium nibh. Est ullamcorper eget nulla facilisi etiam dignissim. Id volutpat lacus laoreet non curabitur gravida arcu ac tortor. Dictum fusce ut placerat orci nulla. Mattis vulputate enim nulla aliquet porttitor lacus luctus accumsan tortor. Vitae tortor condimentum lacinia quis vel. Dui accumsan sit amet nulla facilisi. At tellus at urna condimentum mattis pellentesque id nibh tortor. In nulla posuere sollicitudin aliquam ultrices sagittis orci a. Laoreet non curabitur gravida arcu ac. Eget lorem dolor sed viverra ipsum nunc aliquet bibendum. Metus dictum at tempor commodo ullamcorper a lacus vestibulum sed. Egestas pretium aenean pharetra magna ac placerat vestibulum lectus mauris.
-
-			Turpis egestas maecenas pharetra convallis. Vitae ultricies leo integer malesuada nunc. Ipsum faucibus vitae aliquet nec ullamcorper sit. Sed elementum tempus egestas sed sed. Risus commodo viverra maecenas accumsan lacus vel facilisis volutpat. Sit amet consectetur adipiscing elit pellentesque habitant morbi tristique senectus. Nibh sit amet commodo nulla facilisi nullam. Aliquet risus feugiat in ante metus dictum at. Scelerisque mauris pellentesque pulvinar pellentesque habitant morbi. Vel pretium lectus quam id leo in. Habitasse platea dictumst vestibulum rhoncus est pellentesque elit. Tempor orci eu lobortis elementum nibh tellus molestie. Tempus urna et pharetra pharetra massa massa ultricies mi. Et malesuada fames ac turpis egestas integer eget aliquet nibh. Aliquam ultrices sagittis orci a scelerisque purus semper. Rhoncus mattis rhoncus urna neque viverra justo nec ultrices. Semper feugiat nibh sed pulvinar proin. Eget aliquet nibh praesent tristique. Nibh ipsum consequat nisl vel pretium lectus quam.
-
-			Tempor orci eu lobortis elementum nibh tellus molestie nunc non. Tristique magna sit amet purus gravida quis. Iaculis at erat pellentesque adipiscing commodo elit at imperdiet. Non tellus orci ac auctor. Gravida quis blandit turpis cursus in hac habitasse platea dictumst. At augue eget arcu dictum varius duis at. Hendrerit dolor magna eget est lorem. Tellus molestie nunc non blandit massa enim. Feugiat pretium nibh ipsum consequat nisl. Mauris sit amet massa vitae. Et tortor at risus viverra adipiscing at in tellus integer. Leo vel fringilla est ullamcorper eget nulla facilisi. At tempor commodo ullamcorper a lacus vestibulum sed. Nisl tincidunt eget nullam non nisi est. Ut diam quam nulla porttitor massa.
+			<p>Formation actuel: BTS SIO à CaenSup Sainte-Ursule spécialité réseaux informatique</p>
+			<p>Formation:Bac STI2D spécialité Energie Environnement<p>
+			<p>Etablissement:Lycée Polyvalent Curie Corot </p>
+			<p>Date de début:2021</p>
+			<p>Date de fin: 2022</p>
+			<p>Lieu: Saint lô</p>
+			<p>Contenu de la formation: Spécialité Energie Environnement et math </p>
+			<a href='data/CV.pdf'>	CV </a>	
 		</section>
 
 		<section>
